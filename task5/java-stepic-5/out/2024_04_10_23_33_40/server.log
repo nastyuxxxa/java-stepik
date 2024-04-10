@@ -1,0 +1,5 @@
+[04-10 23:33:40,275, 767] example.Main Use port as the first argument
+[04-10 23:33:40,276, 768] example.Main Starting at http://127.0.0.1:5050
+[04-10 23:33:40,522, 1014] example.Main Server started
+[04-10 23:33:46,202, 6694] servlets.HomePageServlet Limit: 10. Count 0
+[04-10 23:33:46,202, 6694] servlets.HomePageServlet User pass
