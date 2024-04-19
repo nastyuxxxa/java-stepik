@@ -1,0 +1,5 @@
+[04-19 23:18:56,616, 1467] example.Main Use port as the first argument
+[04-19 23:18:56,617, 1468] example.Main Starting at http://127.0.0.1:8080
+[04-19 23:18:56,825, 1676] example.Main Server started
+[04-19 23:18:57,543, 2394] servlets.ResourceServlet Path: resource.xml
+[04-19 23:18:57,561, 2412] servlets.ResourceServlet Name: . Age: 0
